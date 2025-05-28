@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá! Eu sou a Caren 👋
 
-<!--
-**tevatech/tevatech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Sistemas de Informação  
+💻 Aprendendo Python, Desenvolvimento de Games, Ciência de Dados e Cibersegurança  
+🎨 Vendedora de artesanato enquanto busco meu primeiro estágio em tecnologia  
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias que estou aprendendo:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python 🐍
+- HTML & CSS 🌐
+- Git & GitHub 📁
+- Banco de Dados SQL 🗄️
+
+## 📈 Objetivo
+
+Construir uma carreira como desenvolvedora e aplicar tecnologia para transformar ideias em soluções reais 💡
+
+## 📫 Contato
+
+- ✉️ carenteva@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/seu-link)
+- 🧁 [Instagram](https://www.instagram.com/cybercupcakes/)
+
+
+---
+
+Obrigada por visitar meu perfil! 😊
