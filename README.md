@@ -1,4 +1,4 @@
-# Olá! Eu sou a Caren 👋
+# Olá mundo! Eu sou a Caren
 
 🎓 Estudante de Sistemas de Informação  
 💻 Aprendendo Python, Desenvolvimento de Games, Ciência de Dados e Cibersegurança  
@@ -7,6 +7,7 @@
 ## 🚀 Tecnologias que estou aprendendo:
 
 - Python 🐍
+- C# e Unity 🎮
 - HTML & CSS 🌐
 - Git & GitHub 📁
 - Banco de Dados SQL 🗄️
@@ -18,7 +19,7 @@ Construir uma carreira como desenvolvedora e aplicar tecnologia para transformar
 ## 📫 Contato
 
 - ✉️ carenteva@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-link)
+- 💼 [LinkedIn](https://www.linkedin.com/in/caren-t-neves/)
 - 🧁 [Instagram](https://www.instagram.com/cybercupcakes/)
 
 
