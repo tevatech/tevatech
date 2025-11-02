@@ -1,16 +1,15 @@
 # Olá mundo! Eu sou a Caren
 
 🎓 Estudante de Sistemas de Informação  
-💻 Aprendendo Python, Desenvolvimento de Games, Ciência de Dados e Cibersegurança  
+💻 Aprendendo Python, Dados e Cibersegurança  
 🎨 Vendedora de artesanato enquanto busco meu primeiro estágio em tecnologia  
 
 ## 🚀 Tecnologias que estou aprendendo:
 
 - Python 🐍
 - C# e Unity 🎮
-- HTML & CSS 🌐
 - Git & GitHub 📁
-- Banco de Dados SQL 🗄️
+- Engenharia de Dados 🗄️
 
 ## 📈 Objetivo
 
