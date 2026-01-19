@@ -4,18 +4,19 @@
 💻 Aprendendo Python, Dados e Cibersegurança  
 🎨 Vendedora de artesanato enquanto busco meu primeiro estágio em tecnologia  
 
-## 🚀 Tecnologias que estou aprendendo:
+## Tecnologias que estou exercitando:
 
-- Python 🐍
-- C# e Unity 🎮
-- Git & GitHub 📁
-- Engenharia de Dados 🗄️
+- Python 
+- C# e Unity
+- Desenvolvimento Web
+- Git & GitHub 
+- Engenharia de Dados 
 
-## 📈 Objetivo
+## Objetivo
 
-Construir uma carreira como desenvolvedora e aplicar tecnologia para transformar ideias em soluções reais 💡
+Construir uma carreira como desenvolvedora e aplicar tecnologia para transformar ideias em soluções reais 
 
-## 📫 Contato
+## Contato
 
 - ✉️ carenteva@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/caren-t-neves/)
@@ -24,4 +25,4 @@ Construir uma carreira como desenvolvedora e aplicar tecnologia para transformar
 
 ---
 
-Obrigada por visitar meu perfil! 😊
+Obrigada por visitar meu perfil! 
